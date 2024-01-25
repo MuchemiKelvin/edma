@@ -50,7 +50,7 @@ foreach ($result as $row)
     </ol>
 
     <!-- Wrapper For Slides -->
-    <!-- <div class="carousel-inner" role="listbox">
+    <div class="carousel-inner" role="listbox">
 
         <?php
         $i=0;
@@ -75,7 +75,7 @@ foreach ($result as $row)
             $i++;
         }
         ?>
-    </div> -->
+    </div>
 
     <!-- Slider Left Control -->
     <a class="left carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="prev">
