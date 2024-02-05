@@ -518,7 +518,6 @@ Mobile style's
   font-size: 38px;
   border-radius: 50%;
 }
-
 .product .product-carousel {
   position: relative;
 }
@@ -678,6 +677,21 @@ Mobile style's
   border: 0;
 }
 .product .item-product-cat .inner {
+  border: 2px solid #e5e5e5;
+}
+
+.additional-items .headline > h2 {
+  text-align: center;
+  margin-top: 60px !important;
+  text-transform: uppercase;
+}
+.all-products{
+  border: 0 !important;
+  margin-top: 20px;
+  padding: 0 8px 0 8px !important;
+}
+
+.all-products .inner {
   border: 2px solid #e5e5e5;
 }
 
